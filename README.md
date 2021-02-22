@@ -6,7 +6,7 @@
 
 :purple_heart:
 ---
-used **CPP
+used **C++**
 
 - Solution : C++ TCP Echo project
 - Sever programm
